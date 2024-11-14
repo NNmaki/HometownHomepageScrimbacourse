@@ -1,0 +1,75 @@
+
+/* Color palette:
+
+// Orange from backround image:
+rgb(244 200 151)
+background: rgba(244,200,200,1);
+HEX f4c897
+
+// Darker Orangefrom backround image:
+rgb(255 159 51)
+background: rgba(255,159,51,1);
+HEX ff9f33
+
+
+*/
+
+body {
+    /* background-color: #EEF8FF; */
+    /* background: #f9f9f9; */
+    background-image: url(images/helsinki2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 0;
+}
+
+h1, h2, h3, h4 {
+    color: black;
+    text-shadow: 0px 0px 5px #ff9f33;
+}
+
+
+.header-section {
+    /* background-image: url(images/helsinki.jpg);  */
+    /* background-size: cover; */
+    
+    background: rgba(255,255,255,0.2);
+    border-radius: 20px;
+    padding: 10px 30px 10px 30px;
+    margin: 20px 100px 20px 100px;
+}
+
+.activity {
+    background: rgba(0,0,0,0.4);
+    border-radius: 20px;
+    color: white;
+    width: 250px;
+    padding: 20px 10px 10px 10px;
+}
+
+/* #uspensk {
+    background: rgba(0,0,0,1);
+} */
+
+.main-section {
+    /* background: rgba(0,0,0,0.3); */
+    /* background: #f4c897; */
+    display: flex;
+    justify-content: space-around;
+    border-radius: 20px;
+    margin: 20px 20px;
+    padding: 10px 10px;
+}
+
+.main-section img {
+    width: 200px;
+    border-radius: 15px;
+    /* border: 1px solid #ff9f33; */
+    border: 1px solid black;
+}
+
+.your-guide {
+    color: white;
+    margin: 10px 20px 200px 20px;
+}
