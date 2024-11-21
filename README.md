@@ -1,8 +1,8 @@
-# Hometown Homepage - Scrimbacourse Solo Project
+# Hometown Homepage - Scrimba-course Solo Project
 
 This is an exercise, and first so called solo project, of Scrimba Front End Developer Career Path.
 
-I Have chosen to make info-page of Helsinki, capital city of Finland 
+I Have chosen to make info-page of Helsinki, capital city of Finland. I included some "not needed" features, e.g. favicon and hover effects, and also found a way to implement so called sticky backround. There might be too much code in stylesheet and certainly there is a way to make css shorter.
 
 Live version https://nnmaki-hometown-homepage.netlify.app/
 
