@@ -4,7 +4,7 @@ This is an exercise, and first so called solo project, of Scrimba Front End Deve
 
 I Have chosen to make info-page of Helsinki, capital city of Finland. I included some "not needed" features, e.g. favicon and hover effects, and also found a way to implement so called sticky backround. There might be too much code in stylesheet and certainly there is a way to make css shorter.
 
-Live version https://nnmaki-hometown-homepage.netlify.app/
+Live version https://nnmaki-hometown-homepage2.netlify.app/
 
 ![screenshot_hometownhomepage](https://github.com/user-attachments/assets/c76ca3c3-0dcb-485b-9fa7-d459315a20d5)
 
